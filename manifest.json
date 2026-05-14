@@ -1,0 +1,22 @@
+{
+  "name": "PV en Poche CI",
+  "short_name": "PV Poche",
+  "description": "Guide mobile pour la Pharmacovigilance - AIRP Côte d'Ivoire",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008751",
+  "icons": [
+    {
+      "src": "/airp.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/airp.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
